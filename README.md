@@ -59,14 +59,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Feel free to adjust or expand upon this document based on additional features or specific details of your app!
 
-You said:
-create a readme file about my assign
-ChatGPT said:
-Sure! Here's a generic README template for your assignment app. I've kept it simple, focusing on the main features you mentioned. You can update the details or add more based on your actual app content.
+
+
+
 
 Assignment App
 Description
-The Assignment App is a simple task management tool that allows users to input, submit, and reset tasks for different times of the day (Morning, Afternoon, and Evening). It provides an intuitive interface where users can quickly organize their tasks and view their entries.
+The Assignment App is a simple task management tool that allows users to input, submit, and reset tasks for different times of the day 
 
 Features
 Morning Section: Allows users to input tasks for the morning.
