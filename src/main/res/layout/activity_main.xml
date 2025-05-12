@@ -9,10 +9,10 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textDisplay"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Display Suggest"
+        android:text="@string/display_suggest"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -22,7 +22,7 @@
         app:layout_constraintVertical_bias="0.613" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/submitButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Submit"
@@ -34,7 +34,7 @@
         app:layout_constraintVertical_bias="0.808" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/resetButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Reset"
@@ -46,7 +46,7 @@
         app:layout_constraintVertical_bias="0.808" />
 
     <EditText
-        android:id="@+id/Breakfast"
+        android:id="@+id/editName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
