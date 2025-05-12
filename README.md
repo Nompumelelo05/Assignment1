@@ -107,7 +107,7 @@ To run the Assignment App locally on your machine:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/assignment-app.git
+https://github.com/Nompumelelo05/Assignment1
 Navigate to the project folder:
 
 cd assignment-app
